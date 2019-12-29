@@ -1,0 +1,9 @@
+ #logo{
+ 	width: 220px
+ } 
+@media (min-width: 530px)AND(max-width: 720px){
+#buscador{
+display: none
+}
+
+}

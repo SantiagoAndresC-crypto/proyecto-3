@@ -1,0 +1,13 @@
+ #logo{
+ 	width: 220px
+ } 
+ #icono{
+ 	width: 180px
+ }
+@media (min-width: 330px)(max-width: 720px){
+#Buscador1{
+ 	visibility: hidden;
+ }
+ #system{
+       width: 330px;
+ }

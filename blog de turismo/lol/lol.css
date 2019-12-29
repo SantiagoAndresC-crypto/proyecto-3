@@ -1,0 +1,15 @@
+ #logo{
+ 	width: 120px
+ } 
+ #icono{
+ 	width: 60px
+ }
+ #facebook{
+ 	width: 60px;
+ 	height: 40px
+ }
+@media (min-width: 530px)(max-width: 720px){
+#Buscador{
+ 	display: none
+ }
+ 
